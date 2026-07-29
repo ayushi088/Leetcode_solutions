@@ -18,4 +18,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushi088/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushi088/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushi088/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushi088/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
