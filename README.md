@@ -20,6 +20,7 @@
 | [0001-two-sum](https://github.com/ayushi088/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushi088/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ayushi088/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0059-spiral-matrix-ii](https://github.com/ayushi088/Leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,4 +37,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushi088/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/ayushi088/Leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/ayushi088/Leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
