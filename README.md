@@ -13,6 +13,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ayushi088/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ayushi088/Leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Array
 |  |
@@ -21,6 +22,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushi088/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ayushi088/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0059-spiral-matrix-ii](https://github.com/ayushi088/Leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
+| [0088-merge-sorted-array](https://github.com/ayushi088/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushi088/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/ayushi088/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
