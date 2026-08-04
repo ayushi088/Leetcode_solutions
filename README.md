@@ -24,6 +24,7 @@
 | [0059-spiral-matrix-ii](https://github.com/ayushi088/Leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/ayushi088/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0877-stone-game](https://github.com/ayushi088/Leetcode_solutions/tree/master/0877-stone-game) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushi088/Leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,4 +70,28 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ayushi088/Leetcode_solutions/tree/master/0877-stone-game) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushi088/Leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushi088/Leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushi088/Leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushi088/Leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushi088/Leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushi088/Leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
