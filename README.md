@@ -23,12 +23,14 @@
 | [0011-container-with-most-water](https://github.com/ayushi088/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0059-spiral-matrix-ii](https://github.com/ayushi088/Leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/ayushi088/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushi088/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0877-stone-game](https://github.com/ayushi088/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ayushi088/Leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushi088/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushi088/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushi088/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/ayushi088/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushi088/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
